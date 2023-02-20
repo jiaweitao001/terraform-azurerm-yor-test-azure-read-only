@@ -3,5 +3,5 @@ variable "location" {
 }
 
 variable "yor_toggle" {
-  default = false
+  default = true
 }
